@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SNTSS_API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0DdTV4os7+bv730NKFMegBY1A0pF1fkFlNNbtSclvfU=",
+  "Source": "SNTSS_API",
+  "BasePath": "_content/SNTSS_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
